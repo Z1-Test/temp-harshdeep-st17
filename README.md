@@ -122,7 +122,7 @@ manufacturing, and a bold, empowering brand tone.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Design Principles
 
